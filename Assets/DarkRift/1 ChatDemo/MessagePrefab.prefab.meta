@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 710fd1950a4bb354b86d8ca2434d71ae
+timeCreated: 1509748074
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95309
+  packageName: DarkRift Networking 2
+  packageVersion: 2.10.0
+  assetPath: Assets/DarkRift/1 ChatDemo/MessagePrefab.prefab
+  uploadId: 442848

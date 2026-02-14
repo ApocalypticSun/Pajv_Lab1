@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 68b208d28f9be26428063422a561692e
+timeCreated: 1527595989
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95309
+  packageName: DarkRift Networking 2
+  packageVersion: 2.10.0
+  assetPath: Assets/DarkRift/3 BlockDemo/BlockTags.cs
+  uploadId: 442848

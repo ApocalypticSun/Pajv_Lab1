@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a9f2abf96f39b94eb6825e20db60b30
+timeCreated: 1509748077
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95309
+  packageName: DarkRift Networking 2
+  packageVersion: 2.10.0
+  assetPath: Assets/DarkRift/ReadMe.txt
+  uploadId: 442848

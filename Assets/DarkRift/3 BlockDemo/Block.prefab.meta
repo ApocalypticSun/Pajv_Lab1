@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e6bf22459c792f47a2eb3df85bc3ba1
+timeCreated: 1528884563
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95309
+  packageName: DarkRift Networking 2
+  packageVersion: 2.10.0
+  assetPath: Assets/DarkRift/3 BlockDemo/Block.prefab
+  uploadId: 442848

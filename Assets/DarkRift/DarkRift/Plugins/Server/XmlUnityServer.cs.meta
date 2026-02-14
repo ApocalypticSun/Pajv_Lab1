@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4adc319de44073349ab168522e64c4fb
+timeCreated: 1534774627
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95309
+  packageName: DarkRift Networking 2
+  packageVersion: 2.10.0
+  assetPath: Assets/DarkRift/DarkRift/Plugins/Server/XmlUnityServer.cs
+  uploadId: 442848

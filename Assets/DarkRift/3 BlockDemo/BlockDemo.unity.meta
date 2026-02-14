@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03a1c5ab7b1408e4a9b3b7905b184093
+timeCreated: 1528884556
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95309
+  packageName: DarkRift Networking 2
+  packageVersion: 2.10.0
+  assetPath: Assets/DarkRift/3 BlockDemo/BlockDemo.unity
+  uploadId: 442848

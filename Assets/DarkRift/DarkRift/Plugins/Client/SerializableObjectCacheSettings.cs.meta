@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 83a481aa44e1d7b49b07bd3d48ce463f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95309
+  packageName: DarkRift Networking 2
+  packageVersion: 2.10.0
+  assetPath: Assets/DarkRift/DarkRift/Plugins/Client/SerializableObjectCacheSettings.cs
+  uploadId: 442848

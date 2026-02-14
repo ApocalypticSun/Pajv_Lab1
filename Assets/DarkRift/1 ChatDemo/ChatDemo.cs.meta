@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2866a2b8036cc3742ae772a23a3d8a4d
+timeCreated: 1509748070
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95309
+  packageName: DarkRift Networking 2
+  packageVersion: 2.10.0
+  assetPath: Assets/DarkRift/1 ChatDemo/ChatDemo.cs
+  uploadId: 442848
